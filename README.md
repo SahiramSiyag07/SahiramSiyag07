@@ -390,14 +390,21 @@ Completed structured project-based cybersecurity training covering offensive sec
 ## `10` — GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahiramSiyag07&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF6A&icon_color=D4AF6A&text_color=F5F5F5" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahiramSiyag07&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF6A&text_color=F5F5F5" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SahiramSiyag07&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF6A&icon_color=D4AF6A&text_color=FFFFFF&ring_color=D4AF6A"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahiramSiyag07&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF6A&text_color=FFFFFF&icon_color=D4AF6A"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SahiramSiyag07&hide_border=true&background=0D0D0D&ring=D4AF6A&fire=D4AF6A&currStreakLabel=D4AF6A&sideLabels=F5F5F5&dates=888888" />
+  <img
+    src="https://streak-stats.demolab.com?user=SahiramSiyag07&hide_border=true&background=0D0D0D&ring=D4AF6A&fire=D4AF6A&currStreakLabel=D4AF6A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BDBDBD"
+  />
 </p>
-
 ---
 
 ## `11` — CONTRIBUTION ARCHITECTURE
